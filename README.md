@@ -1,6 +1,7 @@
 # Veterinaria React
 
-### Veterinaria hecha con `React` y `CSS` para el diseño de la página, los turnos son almacenados en el `LocalStorage`
+Veterinaria hecha con `React` y `CSS` para el diseño de la página, los turnos son almacenados en el `LocalStorage`
+###
 Enlace a la página [Veterinaria React](https://veterinariafede.netlify.app/)
 
 ## Configuración
